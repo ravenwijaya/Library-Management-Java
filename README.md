@@ -1,3 +1,3 @@
-Java Library Management System
+# Java Library Management System
 
-A simple library management system built in Java to handle core library functionalities such as book tracking, user management, and loan handling.
+A simple and efficient library management system built in Java. This project allows users to manage books, users, and borrowing transactions with ease.
